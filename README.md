@@ -20,3 +20,5 @@ In collaboration with a team of four, we worked on a project aimed at developing
 - **Model Performance**: Our model adeptly assigns models to jobs, maintaining a balance between agency profit and model compensation, while adhering to CO2 emission restrictions.
 - **CO2 Emissions Sensitivity Analysis**: The analysis indicated a significant change in model-job assignments with varying CO2 emission weights, with a preference for local assignments to reduce emissions at higher weights.
 
+## Acknowledgments
+- This project was a part of a course at McGill University. Special thanks to the course instructors and fellow students for their support and guidance.
