@@ -18,6 +18,13 @@ The core of this project is an optimization model that achieves two key goals:
 - **CO2 Emissions Analysis**: A unique aspect is the inclusion of a CO2 emission calculator. This tool estimates the environmental impact based on travel distance and mode of transportation.
 - **Sensitivity Analysis for Sustainability**: Agencies are provided with a sensitivity analysis regarding CO2 emissions. This allows them to decide how much weight to give to sustainability in their assignment decisions, aligning with their environmental goals.
 
+## Sensitivity Analysis
+Heres how we can observe how the job assignment changes as emission weight increases
+![Emission Weight 0](https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/1fdbbab4-0a49-40fd-8d34-cf76e0bc7e31)
+![Emission Weight 30](https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/97df27ee-c346-44c1-9bf6-b80c3300ee32)
+Below graph shows how the profits change as emission weight increases
+![Sensivity Analysis](https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/89b3a9e7-3c34-47fc-a2eb-3e2153a051b9)
+
 ## The Impact
 This model revolutionizes the way fashion agencies assign models by:
 
@@ -34,7 +41,7 @@ The Sustainable Model Assignment Optimization project showcases how operational 
   - One Job Per Model: Restricting models to a single job at a time.
   - Ethnicity Constraints: Matching models with client ethnicity preferences.
   - Age Category Preference: Aligning models with job age requirements.
-- **Sensitivity Analysis**: We evaluated the influence of CO2 emission weights on our model's decision-making process.
+  - Evaluated the influence of CO2 emission weights on our model's decision-making process.
 
 ## Results and Discussion
 - **Model Performance**: Our model adeptly assigns models to jobs, maintaining a balance between agency profit and model compensation, while adhering to CO2 emission restrictions.
