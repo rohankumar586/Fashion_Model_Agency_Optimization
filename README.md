@@ -23,7 +23,7 @@ Heres how we can observe how the job assignment changes as emission weight incre
 ![Emission Weight 0](https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/1fdbbab4-0a49-40fd-8d34-cf76e0bc7e31)
 ![Emission Weight 30](https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/97df27ee-c346-44c1-9bf6-b80c3300ee32)
 Below graph shows how the profits change as emission weight increases
-![Sensivity Analysis]((https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/9d25141c-8f22-46af-bca7-6be215fbdf87")
+![Sensivity Analysis](https://github.com/rohankumar586/Fashion_Model_Agency_Optimization/assets/142628516/9d25141c-8f22-46af-bca7-6be215fbdf87")
 
 ## The Impact
 This model revolutionizes the way fashion agencies assign models by:
